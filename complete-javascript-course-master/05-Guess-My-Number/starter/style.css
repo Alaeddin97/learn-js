@@ -56,7 +56,7 @@ h1 {
   transform: translate(-50%, -50%);
 }
 
-.number {
+#number {
   background: #eee;
   color: #333;
   font-size: 6rem;
@@ -82,7 +82,7 @@ h1 {
   left: 2rem;
 }
 
-.guess {
+#guess {
   background: none;
   border: 4px solid #eee;
   font-family: inherit;
@@ -109,11 +109,11 @@ h1 {
   background-color: #ccc;
 }
 
-.message {
+#message {
   margin-bottom: 8rem;
   height: 3rem;
 }
 
-.label-score {
+#label-score {
   margin-bottom: 2rem;
 }
